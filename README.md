@@ -43,7 +43,7 @@ sql-ecommerce-analytics/
   README.md
   .gitignore
 
-##Organização dos scripts SQL
+## Organização dos scripts SQL
 
 01_schema.sql: criação das tabelas, chaves e constraints.
 02_seed.sql: carga inicial de dados para testes.
@@ -53,12 +53,12 @@ sql-ecommerce-analytics/
 06_performance_indices.sql: índices e otimização.
 07_quality_checks.sql: validações de qualidade e consistência.
 
-##STACK PLANEJADA
+## STACK PLANEJADA
 
 - Banco de dados: PostgreSQL
 - SQL: modelagem + análise
 - Python (apoio): carga e execução de consultas
 - IA (apoio mínimo): consumo de views para experimento simples
 
-##STATUS DO PROJETO
+## STATUS DO PROJETO
 Em construção: etapa atual de modelagem e estruturação inicial.
